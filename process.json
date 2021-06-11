@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"        : "client",
+    "script"      : "./client.js"
+  },{
+    "name"       : "iframe",
+    "script"     : "./iframe.js"
+  }]
+}
